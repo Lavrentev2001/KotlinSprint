@@ -7,7 +7,7 @@ val notificationOrderCliens:String = """
     | чтобы доставить его вам!
 """.trimMargin()
 
-//place an order
+
 fun PlaceAnOrder(){
     println(notificationOrderCliens)
     countOrder++
